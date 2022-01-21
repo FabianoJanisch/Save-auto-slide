@@ -13,7 +13,7 @@ url = "https://slmandic.blackboard.com/ultra/stream"
 url2 = "https://slmandic.blackboard.com/ultra/courses/_50286_1/outline"
 data = time.gmtime()
 
-driver = webdriver.Chrome('C:\chromedriver')
+driver = webdriver.Chrome()
 
 driver.get(url)
 

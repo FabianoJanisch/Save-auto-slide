@@ -1,0 +1,1 @@
+Programa que verifica a cada 10s novo slide e baixa em .png 
